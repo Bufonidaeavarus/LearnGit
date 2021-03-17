@@ -1,0 +1,9 @@
+diff --git a/some.file b/some.file
+index b350336..0bee134 100644
+--- a/some.file
++++ b/some.file
+@@ -2,3 +2,4 @@ Hi Git, I'm from terminal
+ Hello git, I'm from github.
+ Git is awesome.
+ Git is easy to learn
++Patch changes
